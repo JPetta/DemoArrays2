@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\bin\Debug\netcoreapp2.1\DemoArrays2.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\bin\Debug\netcoreapp2.1\DemoArrays2.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\bin\Debug\netcoreapp2.1\DemoArrays2.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\bin\Debug\netcoreapp2.1\DemoArrays2.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\bin\Debug\netcoreapp2.1\DemoArrays2.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\obj\Debug\netcoreapp2.1\DemoArrays2.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\obj\Debug\netcoreapp2.1\DemoArrays2.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\obj\Debug\netcoreapp2.1\DemoArrays2.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\obj\Debug\netcoreapp2.1\DemoArrays2.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\obj\Debug\netcoreapp2.1\DemoArrays2.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Arrays2\DemoArrays2\obj\Debug\netcoreapp2.1\DemoArrays2.pdb
